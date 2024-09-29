@@ -10,7 +10,7 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "@sendgrid/mail": "^7.7.0",
+    "@sendgrid/mail": "^8.0.0",
     "@treblle/express": "^0.0.2",
     "@truffle/hdwallet-provider": "^2.1.2",
     "bcrypt": "^5.0.1",
